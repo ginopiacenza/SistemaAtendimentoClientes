@@ -28,3 +28,4 @@ Cada classe tem uma responsabilidade específica:
 - **Main.java**: Gerencia o funcionamento geral (menu e opções).
 
 ---
+Link do Video: https://www.youtube.com/watch?v=qz_mssF6AzM
